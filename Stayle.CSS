@@ -9,7 +9,7 @@ body {
 }
 header{
 	background-color: #fff;
-	width: 100%;
+	width: 85%;
 	position: fixed;
 	z-index: 1;
 	display: flex;
