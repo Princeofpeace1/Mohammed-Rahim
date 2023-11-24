@@ -42,7 +42,7 @@ section{
 	min-height: 100vh;
 	display: flex;
 	align-items:center;
-	background: url(/images/myphoto.jpg) no-repeat;
+	background: url(myphoto.jpg) no-repeat;
 	background-size:cover;
 	background-position-y:top;
 	background-attachment: fixed;
